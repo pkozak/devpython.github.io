@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <meta property="og:title" content="DevPython.pl :: Blog">
+
+
+  <title>DevPython.pl :: Blog </title>
+  <link rel="icon" type="image/png" href="../static/img/favicon.png">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+
+  <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,300,500,700|Montserrat:400,300,500,700|Roboto:400,300,500,700&amp;subset=latin,latin-ext" rel="stylesheet">
+
+  <link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
+
+  <link rel="stylesheet" href="/static/css/bulma.min.css"/>
+
+  <link rel="stylesheet" href="/static/css/brands.min.css"/>
+  <link rel="stylesheet" href="/static/css/regular.min.css"/>
+  <link rel="stylesheet" href="/static/css/solid.min.css"/>
+  <link rel="stylesheet" href="/static/css/fontawesome.min.css"/>
+
+  <link href="https://fonts.googleapis.com/css?family=Barriecito&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/css/custom.css"/>
+  
+  <link rel="stylesheet" href="/static/css/blog.css" />
+
+</head>
+<body>
+  
+  <div class="container">
+    
+  <nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a href="/" class="navbar-item brand-text title">Dev<span class="has-text-warning">Python</span>.pl</a>
+    </div>
+    <div class="navbar-brand">
+      <a href="/blog" class="navbar-item brand-text title">Blog</a>
+    </div>
+    <div class="navbar-end">
+      <div class="navbar-item">
+        <a class="navbar-item" href="https://www.youtube.com/channel/UCJwwrSLLoJwrv4528oJjfXg" target="_blank">
+          <i class="fab fa-youtube x-fa-space" style="color: red;"></i> Youtube
+        </a>
+        <div class="buttons">
+          <a href="/" class="button is-primary">
+            <strong>Zapisz się na zajęcia!</strong>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+    
+  <div class="container">
+    
+  
+    
+  <div class="columns">
+    
+      <div class="column is-4">
+        
+  
+  <div class="card is_shady" style="background-color: #c8dbda">
+      <div class="card-image">
+        <figure class="image is-4by3">
+          <img src="/static/img/blog/posts/1/pycharm_logo.svg" alt="Placeholder image" class="modal-button" data-target="modal-image2">
+        </figure>
+      </div>
+      <div class="card-content">
+        <div class="content">
+          <h4><a href="
+  ./blog/wpis/1_pycharm.html
+">Jak programować?</a></h4>
+          
+  <p>To nie jest takie trudne at tellus at urna condimentum mattis. Non blandit massa enim nec. Integer enim neque volutpat ac tincidunt vitae semper quis. Accumsan tortor posuere ac ut consequat semper viverra nam.</p>
+
+          
+            <a href="
+  ./blog/wpis/1_pycharm.html
+" class="button is-link">Zobacz więcej</a>
+          
+        </div>
+      </div>
+    </div>
+
+
+      </div>
+    
+      <div class="column is-4">
+        
+  
+  <div class="card is_shady" style="background-color: #c8dbda">
+      <div class="card-image">
+        <figure class="image is-4by3">
+          <img src="https://source.unsplash.com/RWnpyGtY1aU" alt="Placeholder image" class="modal-button" data-target="modal-image2">
+        </figure>
+      </div>
+      <div class="card-content">
+        <div class="content">
+          <h4><a href="
+  ./blog/wpis/2_python.html
+">Instalacja Python</a></h4>
+          
+  <p>To nie jest takie trudne at tellus at urna condimentum mattis. Non blandit massa enim nec.</p>
+
+          
+        </div>
+      </div>
+    </div>
+
+
+      </div>
+    
+      <div class="column is-4">
+        
+  
+  <div class="card is_shady" style="background-color: #c8dbda">
+      <div class="card-image">
+        <figure class="image is-4by3">
+          <img src="/static/img/blog/posts/1/pycharm_logo.svg" alt="Placeholder image" class="modal-button" data-target="modal-image2">
+        </figure>
+      </div>
+      <div class="card-content">
+        <div class="content">
+          <h4><a href="
+  ./blog/wpis/1_pycharm.html
+">Jak programować?</a></h4>
+          
+  <p>To nie jest takie trudne at tellus at urna condimentum mattis. Non blandit massa enim nec. Integer enim neque volutpat ac tincidunt vitae semper quis. Accumsan tortor posuere ac ut consequat semper viverra nam.</p>
+
+          
+            <a href="
+  ./blog/wpis/1_pycharm.html
+" class="button is-link">Zobacz więcej</a>
+          
+        </div>
+      </div>
+    </div>
+
+
+      </div>
+    
+  </div>
+
+  
+    
+  <div class="columns">
+    
+      <div class="column is-4">
+        
+  
+  <div class="card is_shady" style="background-color: #c8dbda">
+      <div class="card-image">
+        <figure class="image is-4by3">
+          <img src="/static/img/blog/posts/1/pycharm_logo.svg" alt="Placeholder image" class="modal-button" data-target="modal-image2">
+        </figure>
+      </div>
+      <div class="card-content">
+        <div class="content">
+          <h4><a href="
+  ./blog/wpis/1_pycharm.html
+">Jak programować?</a></h4>
+          
+  <p>To nie jest takie trudne at tellus at urna condimentum mattis. Non blandit massa enim nec. Integer enim neque volutpat ac tincidunt vitae semper quis. Accumsan tortor posuere ac ut consequat semper viverra nam.</p>
+
+          
+            <a href="
+  ./blog/wpis/1_pycharm.html
+" class="button is-link">Zobacz więcej</a>
+          
+        </div>
+      </div>
+    </div>
+
+
+      </div>
+    
+      <div class="column is-4">
+        
+  
+  <div class="card is_shady" style="background-color: #c8dbda">
+      <div class="card-image">
+        <figure class="image is-4by3">
+          <img src="https://source.unsplash.com/RWnpyGtY1aU" alt="Placeholder image" class="modal-button" data-target="modal-image2">
+        </figure>
+      </div>
+      <div class="card-content">
+        <div class="content">
+          <h4><a href="
+  ./blog/wpis/2_python.html
+">Instalacja Python</a></h4>
+          
+  <p>To nie jest takie trudne at tellus at urna condimentum mattis. Non blandit massa enim nec.</p>
+
+          
+        </div>
+      </div>
+    </div>
+
+
+      </div>
+    
+      <div class="column is-4">
+        
+  
+  <div class="card is_shady" style="background-color: #c8dbda">
+      <div class="card-image">
+        <figure class="image is-4by3">
+          <img src="/static/img/blog/posts/1/pycharm_logo.svg" alt="Placeholder image" class="modal-button" data-target="modal-image2">
+        </figure>
+      </div>
+      <div class="card-content">
+        <div class="content">
+          <h4><a href="
+  ./blog/wpis/1_pycharm.html
+">Jak programować?</a></h4>
+          
+  <p>To nie jest takie trudne at tellus at urna condimentum mattis. Non blandit massa enim nec. Integer enim neque volutpat ac tincidunt vitae semper quis. Accumsan tortor posuere ac ut consequat semper viverra nam.</p>
+
+          
+            <a href="
+  ./blog/wpis/1_pycharm.html
+" class="button is-link">Zobacz więcej</a>
+          
+        </div>
+      </div>
+    </div>
+
+
+      </div>
+    
+  </div>
+
+  
+
+  </div>
+
+    
+  <footer>
+    <p class="has-text-centered">Copyright © 2019 PyClo - Paweł Kozak</p>
+  </footer>
+
+  </div>
+
+
+  <script src="/static/js/jquery-3.1.1.min.js"></script>
+  
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143750863-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-143750863-1');
+  </script>
+</body>
+</html>
