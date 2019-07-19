@@ -16,18 +16,6 @@
     margin-top: 30px;
 }
 
-/*INDEX*/
-#main-header {
-    left: 50px;
-    top: 110px;
-    position: absolute;
-    background-color: white;
-}
-
-#main-header h1 {
-    font-size: 5rem;
-    font-family: 'Barriecito', cursive;
-}
 
 .info {
     font-size: 2.0rem;
@@ -36,11 +24,6 @@
     padding-left: 10px;
     padding-right: 10px;
     font-weight: 600;
-}
-
-.info-main {
-    margin-bottom: 5px;
-    display: inline-block;
 }
 
 .brand-text {
@@ -59,6 +42,7 @@
 
 .promotion-list {
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .promotion-item {
@@ -95,4 +79,122 @@
 
 .tech_item:hover {
      background-color: #fafafa;
+}
+
+.navbar-right-item {
+    font-size: 1.8rem;
+    display: flex;
+}
+
+.navbar-x {
+    min-height: 3.25rem;
+    align-items: stretch;
+    display: flex;
+}
+
+.navbar-brand-x {
+    margin-left: -.75rem;
+
+}
+.navbar-item-x {
+    display: flex;
+    align-items: center;
+}
+.navbar-end-x {
+    align-items: stretch;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+}
+
+.title-x {
+    font-size: 2rem;
+}
+
+@media screen and (min-width: 1024px) {
+    .title-x {
+        font-size: 2.5rem;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .main-container {
+        margin: 0px auto;
+        margin-left: 2%;
+        margin-right: 2%;
+        /*margin-left: 2%;*/
+        /*margin-right: 2%;*/
+    }
+}
+
+/*INDEX*/
+#main-header {
+    position: absolute;
+    background-color: white;
+}
+
+#main-header h1 {
+    font-family: 'Barriecito', cursive;
+    text-align: center;
+}
+
+
+
+.info-main {
+    background-color: #00d1b2;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 600;
+
+    margin-bottom: 5px;
+    display: inline-block;
+    font-size: 1.9rem;
+}
+
+
+
+#main-header {
+    top: 110px;
+}
+
+@media screen and (min-width: 1400px) {
+    .info-main {
+        font-size: 1.9rem !important;
+    }
+    #main-header {
+        left: 5%;
+    }
+}
+@media screen and (max-width: 1400px) {
+    .info-main {
+        font-size: 1.5rem !important;
+    }
+    #main-header {
+        left: 5%;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .info-main {
+        font-size: 1.3rem !important;
+    }
+    #main-header {
+        left: 5%;
+    }
+}
+
+
+
+
+
+@media screen and (min-width: 1250px) {
+    .doc-links {
+        float: right !important
+    }
+}
+@media screen and (max-width: 1250px) {
+    .doc-links {
+        display: block;
+    }
 }

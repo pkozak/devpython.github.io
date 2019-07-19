@@ -509,7 +509,6 @@ function setupAnimations() {
       {row: 4, col: 18},
       {row: 9, col: 23},
       {row: 9, col: 22},
-      {row: 9, col: 14},
       {row: 5, col: 26},
       {row: 6, col: 27},
       {row: 7, col: 30},
